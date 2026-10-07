@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://shreyx.dev"),
+  metadataBase: new URL("https://shreyx-website.vercel.app"),
   title: "ShreyX | Independent Technology Studio",
   description:
     "ShreyX is an independent technology studio founded by Shreyash Patil, building privacy-first consumer applications, autonomous media engines, and AI tools.",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     title: "ShreyX | Independent Technology Studio",
     description:
       "Building technology people actually want to use. Privacy-first consumer apps, autonomous media players, and on-device AI tools.",
-    url: "https://shreyx.dev",
+    url: "https://shreyx-website.vercel.app",
     siteName: "ShreyX",
     images: [
       {
